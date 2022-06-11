@@ -2,7 +2,17 @@
     margin: 0;
     padding: 0;
 }
+body {
+margin: 0;
+padding: 0;
+height: 100vh;
+width: 100vw;
+background: linear-gradient(68.15deg, #000000 16.62%, #462222 85.61%);
+}
 
+body {
+    
+}
 .container-slide{
     display: flex;
     justify-content: space-between;
